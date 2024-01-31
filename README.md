@@ -8,11 +8,10 @@
 **NOTE**: Unfortunately, the code for this project is proprietary and cannot be shared publically. If you want to learn more about this project, feel free to reach out to me. 
 
 This is a purely backend-centric project for collecting law data for consumer use, primarily being used in [these mobile apps](https://apps.apple.com/us/app/colorado-law-codes/id1622729259). Some of the key technologies being used in this case are the following:
-* `TypeScript`, `JavaScript`, `Python`, `Swift`, and `Kotlin`
-* `React Native`, `Angular`
+* `React Native` and `Angular`
 * `Elasticsearch`, `PostgreSQL`, `MongoDB`, and `Redis`
-* `Node.js`, `Express.js`, `FastAPI`,
-* `Docker`, `Kubernetes`, `Argo`, `AWS`
+* `Express.js` and `FastAPI`,
+* `Docker`, `Kubernetes`, `Argo`, and `AWS`
 
 A series of microservices and web scraping applications have been developed in order to handle the vast legal information across 8 U.S. states (currently expanding). This includes monitoring law modifications, processing law data for efficient storage, and tracking user subscription data through a scalable Kubernetes architecture.
 
